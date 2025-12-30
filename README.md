@@ -1,29 +1,25 @@
-# Travel & Tourism Management System 🚍✈️🏨  
-Java Swing + MySQL + Ant Build System
+# Travel Management System (Java)
 
-This is a desktop-based Travel & Tourism Management System developed using **Java Swing** for the GUI and **MySQL** for the database. The project helps in managing customers, travel packages, hotel bookings, and user authentication.
+This is a Java-based Travel Management System developed for academic submission.
+The project is designed to manage travel-related operations using a simple
+graphical user interface built with Java Swing.
 
----
+## Features
+- User-friendly GUI
+- Customer and travel data management
+- Basic database connectivity
+- Demonstrates core Java concepts
 
-## 📌 Features
-- User Login System (Admin / Staff)
-- Add Customer Details
-- View Customers
-- Manage Travel Packages
-- Hotel Reservation
-- Booking Management
-- MySQL Database Integration
-- Built using Apache Ant
+## Technologies Used
+- Java
+- Java Swing
+- JDBC
+- NetBeans-style project structure
 
----
+## Project Purpose
+This project was created as part of a college academic requirement to understand
+Java programming, GUI development, and basic database operations.
 
-## 🛠️ Technologies Used
-- **Java (Swing)**
-- **MySQL**
-- **JDBC**
-- **Apache Ant**
-- **NetBeans / IntelliJ IDEA**
-
----
-
-## 📂 Project Structure
+## Author
+Ujjawal
+Tanot
